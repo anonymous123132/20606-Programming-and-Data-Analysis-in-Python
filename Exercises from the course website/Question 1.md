@@ -1,9 +1,11 @@
-A computer system consists of two parts that work together:
-Software and ______
-1. Lab
-2. Screen
-3. Internal components
-4. Peripheral devices
-5. Mouse and keyboard
-6. Hardware
-The correct answer is 6
+שאלה 1
+מערכת מחשב מורכבת משני חלקים הפועלים יחד:
+
+תוכנה, ו-
+1. מעבד 
+2. מסך 
+3. רכיבים פניימים 
+4. התקנים היקפיים
+5. עכבר ומקלדת 
+6. חומרה 
+התושבה הנוכנה היא 6
