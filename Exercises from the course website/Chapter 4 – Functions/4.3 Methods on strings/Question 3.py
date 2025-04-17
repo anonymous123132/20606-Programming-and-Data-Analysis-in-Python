@@ -1,0 +1,5 @@
+print('!2010A' .isalnum())
+print('hello' .islower())
+print('1980' .isdigit())
+print('Python' .endswith('on'))
+print('FUN' .isupper())

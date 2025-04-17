@@ -1,0 +1,6 @@
+my_list = (8, 5, 2, 1, 0, 3)
+iter = iter(my_list)
+next(iter)
+next(iter)
+next(iter)
+print(next(iter))
